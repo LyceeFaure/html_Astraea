@@ -2,7 +2,7 @@
 body {
     width: 800px;  /* largeur de 800 pixels */
     margin: auto;  /* marges automatiques pour centrer horizontalement */
-    background-color: rgb(225, 225, 225);  /* couleur du fond */  
+    background-color: rgb(150, 10, 10);  /* couleur du fond */  
 }
 h1 {
     text-align: center;
