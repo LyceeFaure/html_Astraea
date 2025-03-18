@@ -1,0 +1,34 @@
+/* On attribue des propriétés aux titres h1, centré, bleu, taille 40 px */
+body {
+    width: 800px;  /* largeur de 800 pixels */
+    margin: auto;  /* marges automatiques pour centrer horizontalement */
+    background-color: rgb(240, 255, 255);  /* couleur du fond */  
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+h2 {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    color: white; /* Change la couleur de la police */
+    background-color: black; /* Change la couleur du fond */
+}
+h3 {
+    text-align: center; /* Centre le texte */
+    font-family: Arial; /* Change la police pour Arial */
+}
+p {
+    margin-left: 20px;
+    margin-right: 100px;
+    font-family: Arial;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
