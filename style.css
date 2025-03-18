@@ -2,12 +2,13 @@
 body {
     width: 800px;  /* largeur de 800 pixels */
     margin: auto;  /* marges automatiques pour centrer horizontalement */
-    background-color: rgb(255, 0, 0);  /* couleur du fond */  
+    background-color: rgb(150, 150, 150);  /* couleur du fond */  
 }
 h1 {
     text-align: center;
     color: blue;
     font-size: 40px;
+    font-family: Lucida Handwriting;
 }
 
 h2 {
@@ -20,12 +21,12 @@ h2 {
 }
 h3 {
     text-align: center; /* Centre le texte */
-    font-family: Arial; /* Change la police pour Arial */
+    font-family: "Comic Sans MS", "Comic Sans", cursive; /* Change la police pour Arial */
 }
 p {
     margin-left: 20px;
     margin-right: 100px;
-    font-family: Arial;
+    font-family: Times New Roman;
 }
 div {
     display: flex;
